@@ -6,7 +6,7 @@ The HaveIBeenPwned API is not free. There’s a nominal $3.50 per month recurrin
 
 See <a href="https://azurecloudai.blog/2022/06/01/how-to-query-haveibeenpwned-using-an-azure-sentinel-playbook/" target="_blank">How to Query HaveIBeenPwned Using an Microsoft Sentinel Playbook</a> for more information.
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Frod-trent%2FSentinelPlaybooks%2Fmaster%2FHaveIBeenPwned-Email%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjjrbg%2FSentinelPlaybooks%2Fpatch-1%2FHaveIBeenPwned-Email%2Fazuredeploy.json)
 [![Deploy to Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Frod-trent%2FSentinelPlaybooks%2Fmaster%2FHaveIBeenPwned-Email%2Fazuredeploy.json)
 
 
